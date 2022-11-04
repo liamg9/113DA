@@ -1,0 +1,6 @@
+usb_host.c:61:6:userFunction	16	static
+usb_host.c:99:6:read_bmp	24	static
+usb_host.c:120:9:read_txt	32	static
+usb_host.c:158:6:MX_USB_HOST_Init	8	static
+usb_host.c:185:6:MX_USB_HOST_Process	8	static
+usb_host.c:193:13:USBH_UserProcess	16	static
